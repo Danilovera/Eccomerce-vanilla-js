@@ -1,0 +1,203 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+}
+/*personalizando el header*/
+
+div.menu1{
+    text-align: center;
+    padding: 6px;
+    background-color: #e91e63;
+    color: #FFFF;
+    min-height: 20px;
+    font-size: 1em;
+    font-family: 'Fredoka', sans-serif;
+}
+
+
+nav{
+    position: sticky;
+    width: 100%;
+    background-color: #FFFF;
+}
+
+nav ul{
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 2%;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+
+}
+
+nav ul li a:hover{
+  font-size: 40px;
+  border-bottom:  solid red;
+
+}
+header button{
+    padding:10px;
+    width: 100px;
+    color: white;
+    background-color:#000;
+    border: none;
+    border-radius: 20px;
+    margin: 15px;
+    text-align:center ;
+
+}
+img.logo{
+    float: left;
+    padding: 5px;
+}
+button.carrito{
+    float: right;
+    margin: 15px;
+    margin-top: 25px;
+}
+
+/*fondo de pantalla*/
+
+.picture-ny{
+    background-image: url("../img/fondo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+}
+.text-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color: white;
+}
+.filter{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0,0, 0.67);
+}
+/*secciones*/
+
+section.bienvenido{
+    height: 650px;
+    font-size: 50px;
+    text-align: left;
+    background-size: cover;
+    filter: brightness(80%);
+}
+
+section h1{
+
+    margin-left: 10%;
+    font-family: 'Playfair Display', serif;
+    color:#FFFF;
+    
+}
+
+
+section p{
+    margin-left: 10%;
+    font-family: 'Fredoka', sans-serif;
+    color: #FFFF;
+}
+
+section button{
+    margin-left: 15%;
+    font-family: 'Fredoka', sans-serif;
+    padding: 10px;
+    text-align: right;
+}
+
+.container-categorias{
+    margin: 70px auto;
+    width: 80%;
+}
+
+section.clasicos{
+    background-image: url(../img/section1.jpeg);
+    background-repeat: no-repeat;
+    width: 440px;
+    height: 519px;
+    margin-left: 10%;
+    text-align: center;
+    display: inline-block;
+    filter: brightness(50%);
+    color: #ffff;
+}
+.clasicos:hover{
+    -webkit-transform:scale(1.2);
+    -moz-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    -o-transform:scale(1.2);
+    transform:scale(1.2);
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+section.ciencia-ficcion{
+    background-image: url(../img/section2.jpeg);
+    background-repeat: no-repeat;
+    width: 440px;
+    height: 519px;
+    margin-left: 10%;
+    text-align: center;
+    display: inline-block;
+    filter: brightness(50%);
+    color: #ffff;
+    
+}
+.ciencia-ficcion:hover{
+    -webkit-transform:scale(1.2);
+    -moz-transform:scale(1.2);
+    -ms-transform:scale(1.2);
+    -o-transform:scale(1.2);
+    transform:scale(1.2);
+    cursor: pointer;
+}
+.hombre h1{
+    color: #e91e63;
+}
+
+.mujer h1{
+    color:#e91e63 ;
+}
+
+section h1{
+    margin-left: 10%;
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+    color:#FFFF;
+    font-size: 50px;
+}
+button.hombre{
+    margin: auto;
+}
+/*footer*/
+
+footer{
+	text-align: center;
+    color: #FFFF;
+    background-color:#e91e63;
+}

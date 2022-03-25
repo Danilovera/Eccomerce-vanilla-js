@@ -1,0 +1,110 @@
+{"libros" : [
+    {
+      "name": "1984",
+      "category":"clasicos",
+      "img": "../img/books/1984.jpg",
+      "price": 40000,
+      "description":"Inquietante interpretación futurista basada en la crítica a los totalitarismos y a la opresión del poder. Londres, 1984: Winston Smith decide rebelarse ante un gobierno totalitario que controla cada uno de los movimientos de sus ciudadanos y castiga incluso a aquellos que delinquen con el pensamiento."  
+    },
+    {
+      "name": "Los crimenes de la calle morgue",
+      "category":"clasicos",
+      "img": "../img/books/allanpoe.jpg",
+      "price": 40000,
+      "description":"C. Auguste Dupin, un detective retirado, vuelve al mundo de la investigación para demostrar que el marido de su hija es inocente de unos crímenes de los que le inculpan. En concreto, el asesinato de una madre y su hija en un apartamento en París."  
+    },
+    {
+      "name": "La tregua",
+      "category":"clasicos ",
+      "img": "../img/books/latregua.jpg",
+      "price": 40000,
+      "description":"La vida de un oficinista viudo se transforma tras la llegada de una nueva compañera de trabajo."  
+    },
+    {
+      "name": "Las uvas de la ira",
+      "category":"clasicos ",
+      "img": "../img/books/uvas.jpg",
+      "price": 40000,
+      "description":"Tras cumplir condena en prisión, Tom Joad regresa a su hogar, pero la ilusión de volver a ver a los suyos se transforma en frustración al ver cómo los expulsan de sus tierras. Para escapar al hambre y a la pobreza, la familia no tiene más remedio que emprender un larguísimo viaje lleno de penalidades con la esperanza de encontrar una nueva oportunidad en California, la tierra prometida."  
+    },
+    {
+      "name": "Crimen y castigo",
+      "category":"clasicos",
+      "img": "../img/books/crimenycastigo.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "Don Quijote",
+      "category":" ",
+      "img": "../img/books/donquijote.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "El viejo y el mar",
+      "category":"clasicos ",
+      "img": "../img/books/elviejo.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "Metamorfosis",
+      "category":"clasicos ",
+      "img": "../img/books/metamorfosis.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "Moby-Dick",
+      "category":"clasicos ",
+      "img": "../img/books/moby.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "Orgullo y prejuicio",
+      "category":"clasicos ",
+      "img": "../img/books/orgullo.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "Papillon",
+      "category":"clasicos ",
+      "img": "../img/books/papillon.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "El principito",
+      "category":"clasicos ",
+      "img": "../img/books/principito.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "El nombre de la rosa",
+      "category":"clasicos ",
+      "img": "../img/books/rosa.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "Las aventuras de Tom Sawyer",
+      "category":"clasicos ",
+      "img": "../img/books/tomsawyer.jpg",
+      "price": 40000,
+      "description":""  
+    },
+    {
+      "name": "La vuelta al mundo en 80 dias",
+      "category":"clasicos ",
+      "img": "../img/books/veulta.jpg",
+      "price": 40000,
+      "description":""  
+    }
+    
+    
+  ]
+    }
